@@ -70,3 +70,4 @@ if st.button("Generate Post"):
 
             except Exception as e:
                 st.error(f"❌ Error: {str(e)}")
+
